@@ -1,6 +1,8 @@
 # What the college haven't taught me
 
-This repo contains a list of useful links that you can use to bootstrap your professional career as a Web Developer (adopt a Cat!).
+This repo contains a list of useful links that you can use to bootstrap your professional career as a Web Developer.
+
+# Adpot a Cat!
 
 ## YouTube Channels
 
